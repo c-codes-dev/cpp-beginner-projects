@@ -6,5 +6,4 @@ A collection of beginner C++ programs and mini-projects.
 * **01-hello-github**: Simple starter program.
 * **02-movie-ticket-counter**: Ticket counter program.
 * 03-hotel-booking: Hotel booking system.
-* 
- 04-hotel-booking: Hotel booking and billing system with extra features.
+*  04-hotel-booking: Hotel booking and billing system with extra features.
